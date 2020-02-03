@@ -1,3 +1,3 @@
 # JS
-# All JS Project 
-# Author :: HrushiKesh Makode
+All JS Project 
+Author :: HrushiKesh Makode
